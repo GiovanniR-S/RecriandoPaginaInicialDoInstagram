@@ -2,5 +2,6 @@
 
 - Recriando a página do instagram;
 - Fazendo arte para coloca na página;
-- Adicinando fonte.
+- Adicinando fonte;
+- Colocando box shadow na foto e no botão.
 
