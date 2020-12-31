@@ -86,6 +86,7 @@ body{
 	align-items: center;
 	border-radius: 50%;
 	overflow: hidden;
+	box-shadow: 0px 4px 5px #ccc;
 	margin-bottom: 15px;
 
 }
@@ -101,11 +102,15 @@ body{
 	color: #ffffff;
 	padding: 8px;
 	border-radius: 4px;
+	cursor: pointer;
+	box-shadow: 0.5px 0.5px 0.5px #000;
+
 }
 
 .Instagram_logout{
 	color: #0095f6;
 	margin-top: 1rem;
+	cursor: pointer;
 
 }
 
@@ -115,6 +120,7 @@ body{
 
 .link_blue{
 	color: #0095f6;
+	cursor: pointer;
 }
 
 .get-the-app{
@@ -148,6 +154,7 @@ body{
 	height: 3rem;
 	width: 10rem;
 	background-size: cover;
+
 
 }
 
